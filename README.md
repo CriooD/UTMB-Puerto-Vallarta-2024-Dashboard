@@ -1,4 +1,4 @@
-# UTMB - Puerto Vallarta 2024 Analytics: Power BI Dashboard
+# UTMB - Puerto Vallarta 2024 Power BI Dashboard
 
 ## Description
 
