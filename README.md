@@ -42,7 +42,7 @@ Real-world ultramarathon data presents specific challenges, so the following dec
 ## Dashboard Views
 
 <!--
-*(Insert your screenshots here using the format: `![View Name](path/to/image.png)`)*
+*(Proximamente Screenshots: `![View Name](path/to/image.png)`)*
 
 
 
